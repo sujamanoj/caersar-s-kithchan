@@ -1,4 +1,4 @@
-# Caesars-Kitchen
+# Caesar's-Kitchen
 
 ## Purpose
 
@@ -24,8 +24,6 @@ ScreenShot:
 ## Built With
 * MERN (React frontend)
 * Graphql 
-* Node.JS 
-* Express Server
 * Mongodb
 * Mongoose odm
 * JWT Auth
